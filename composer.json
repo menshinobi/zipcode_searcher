@@ -1,7 +1,7 @@
 {
-    "name": "pragmarx/zipcode",
+    "name": "menshinobi/zipcode",
 
-    "description": "A worldwide address-by-zipcode searcher.",
+    "description": "A worldwide address-by-zipcode searcher. Supports Laravel 7",
 
     "keywords": ["address", "zip code", "zip", "laravel"],
 

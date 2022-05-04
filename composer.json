@@ -1,12 +1,9 @@
 {
     "name": "menshinobi/zipcode",
-
+    "version": "1.5.8",
     "description": "A worldwide address-by-zipcode searcher. Supports Laravel 7",
-
     "keywords": ["address", "zip code", "zip", "laravel"],
-
     "license": "BSD-3-Clause",
-
     "authors": [
         {
             "name": "Antonio Carlos Ribeiro",
@@ -29,13 +26,6 @@
     "autoload": {
         "psr-4": {
             "PragmaRX\\ZipCode\\": "src/"
-        }
-    },
-
-    "extra": {
-        "component": "package",
-        "branch-alias": {
-            "dev-master": "1.6.x-dev"
         }
     },
 
